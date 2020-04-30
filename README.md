@@ -24,15 +24,15 @@
   <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
 </p>
 
-## 💻 Projeto
+## 💻 Project
 
-O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+The BeTheHero is a project that connects peoples to ONG's to help with donations.
 
 ---
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed using this technologiess:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
@@ -41,8 +41,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This projeto uses MIT License. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
